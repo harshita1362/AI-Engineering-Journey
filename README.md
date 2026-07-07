@@ -1,2 +1,7 @@
-# AI-Engineering-Journey
-A comprehensive repository documenting my journey through Artificial Intelligence, Machine Learning, Deep Learning, and Data Science.
+# AI Engineering Journey
+
+🚀 Building a strong foundation in Artificial Intelligence through theory, mathematics, coding, experiments, and real-world projects.
+
+> "Learning AI is not about completing courses; it's about understanding how intelligence is engineered."
+
+---
